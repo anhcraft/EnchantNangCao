@@ -1,0 +1,9 @@
+name: EnchantNangCao
+version: 4.4.5
+main: org.anhcraft.enchantnangcao.EnchantNangCao
+authors: [anhcraft]
+description: EnchantNangCao
+depend: [SpaciousLib, EffectLib]
+softdepend: [Essentials,WorldGuard,WorldEdit]
+website: https://anhcraft.org/
+api-version: 1.13

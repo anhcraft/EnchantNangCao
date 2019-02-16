@@ -1,0 +1,23 @@
+
+
+          ######## ##    ##  ######
+          ##       ###   ## ##    ##
+          ##       ####  ## ##
+          ######   ## ## ## ##
+          ##       ##  #### ##
+          ##       ##   ### ##    ##
+          ######## ##    ##  ######
+
+          ## CREATED BY ANH CRAFT ##
+         ## https://fb.com/anhcraft ##
+
+prefix: '&c&lENC&r &f>> '
+
+# phần chỉnh cho biển enchant ENC
+enchant_sign:
+  code: '[enc]'
+  title: '&6[ENC]'
+
+# bật tùy chọn này nếu bạn muốn enchant với level cao hơn quy định
+# không khuyến khich bật cái này
+unsafe_enchantment: false

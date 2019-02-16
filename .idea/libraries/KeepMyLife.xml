@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KeepMyLife">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../KeepMyLife/KeepMyLife.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
